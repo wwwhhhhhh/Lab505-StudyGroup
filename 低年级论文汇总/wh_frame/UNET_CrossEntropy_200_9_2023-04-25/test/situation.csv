@@ -1,0 +1,3 @@
+test_map,test_label,test_num mask_test_save_dir
+../GuiTorch/segmentation_data/test/img/,../GuiTorch/segmentation_data/test/gth/,,UNET_CrossEntropy_200_9_2023-04-25/mask_test_pred
+index,name,acc,iou,loss,max_acc,max_acc_epoch,max_iou,max_iou_epoch,min_loss,epoch_to_stop
